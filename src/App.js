@@ -9,8 +9,9 @@ import "./App.css";
 
 export default class App extends React.Component {
   render() {
+    console.log(process.env)
     return(
-      <Router>      
+      <Router basename={process.env.PUBLIC_URL}>      
         <Switch>
         <Route path="/:q?" component={({ match }) => (
           <Home q={match.params.q} />
