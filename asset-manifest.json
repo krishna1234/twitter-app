@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/krishna1234/twitter-app/static/css/main.a440f248.chunk.css",
-    "main.js": "/krishna1234/twitter-app/static/js/main.dab59796.chunk.js",
-    "main.js.map": "/krishna1234/twitter-app/static/js/main.dab59796.chunk.js.map",
-    "runtime-main.js": "/krishna1234/twitter-app/static/js/runtime-main.71eb316a.js",
-    "runtime-main.js.map": "/krishna1234/twitter-app/static/js/runtime-main.71eb316a.js.map",
-    "static/js/2.c31a6665.chunk.js": "/krishna1234/twitter-app/static/js/2.c31a6665.chunk.js",
-    "static/js/2.c31a6665.chunk.js.map": "/krishna1234/twitter-app/static/js/2.c31a6665.chunk.js.map",
-    "index.html": "/krishna1234/twitter-app/index.html",
-    "precache-manifest.eb7af7949c8848d7b481f15d940eef07.js": "/krishna1234/twitter-app/precache-manifest.eb7af7949c8848d7b481f15d940eef07.js",
-    "service-worker.js": "/krishna1234/twitter-app/service-worker.js",
-    "static/css/main.a440f248.chunk.css.map": "/krishna1234/twitter-app/static/css/main.a440f248.chunk.css.map"
+    "main.css": "/twitter-app/static/css/main.a440f248.chunk.css",
+    "main.js": "/twitter-app/static/js/main.1908e9c0.chunk.js",
+    "main.js.map": "/twitter-app/static/js/main.1908e9c0.chunk.js.map",
+    "runtime-main.js": "/twitter-app/static/js/runtime-main.1d47587c.js",
+    "runtime-main.js.map": "/twitter-app/static/js/runtime-main.1d47587c.js.map",
+    "static/js/2.c31a6665.chunk.js": "/twitter-app/static/js/2.c31a6665.chunk.js",
+    "static/js/2.c31a6665.chunk.js.map": "/twitter-app/static/js/2.c31a6665.chunk.js.map",
+    "index.html": "/twitter-app/index.html",
+    "precache-manifest.34c3e48e753b04b12b1397c5cffab30b.js": "/twitter-app/precache-manifest.34c3e48e753b04b12b1397c5cffab30b.js",
+    "service-worker.js": "/twitter-app/service-worker.js",
+    "static/css/main.a440f248.chunk.css.map": "/twitter-app/static/css/main.a440f248.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.71eb316a.js",
+    "static/js/runtime-main.1d47587c.js",
     "static/js/2.c31a6665.chunk.js",
     "static/css/main.a440f248.chunk.css",
-    "static/js/main.dab59796.chunk.js"
+    "static/js/main.1908e9c0.chunk.js"
   ]
 }
