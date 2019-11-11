@@ -13,7 +13,7 @@ export default class App extends React.Component {
     return(
       <Router basename={process.env.PUBLIC_URL}>      
         <Switch>
-        <Route path="/:q?" component={({ match }) => (
+        <Route path={process.env.PUBLIC_URL + "/:q?"}  component={({ match }) => (
           <Home q={match.params.q} />
         )}/>
         </Switch>      

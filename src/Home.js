@@ -62,8 +62,9 @@ class Home extends React.Component {
     }
 
     render() {
-        const { query, posts, isLoading, hasError } = this.state;
+        const { query, posts, isLoading, hasError } = this.state;        
         let inputValue = query || this.props.q.split("=")[1];
+        console.log(inputValue)
         return(
             <div className="container">            
                 <div className="heading-div">
