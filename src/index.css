@@ -1,0 +1,98 @@
+body {
+  background: #fff !important;
+  font-family: "Helvetica Neue"; }
+
+@media only screen and (max-width: 720px) {
+  .container {
+    padding: 1rem !important; } }
+
+@media only screen and (min-width: 721px) and (max-width: 1023px) {
+  .card-wrapper {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2; } }
+
+.form-div {
+  width: 60%;
+  margin: auto; }
+  .form-div > input[type="text"] {
+    padding: 14px 18px;
+    border: none;
+    width: 100%;
+    outline: none;
+    border: 1px solid #a3a3a3 !important; }
+  .form-div button {
+    background: #1DA1F2 !important; }
+  @media only screen and (max-width: 720px) {
+    .form-div {
+      width: 90%;
+      margin: 0 -6px; } }
+
+.heading-div .heading {
+  color: skyblue;
+  float: left;
+  font-size: 25px; }
+
+.heading-div .autorefresh {
+  color: skyblue;
+  float: right; }
+  @media only screen and (max-width: 720px) {
+    .heading-div .autorefresh {
+      float: left;
+      font-size: 14px; } }
+
+.bottom-hr {
+  width: 100%;
+  border-top: 2px solid skyblue; }
+
+.post-container {
+  margin: 20px 20px 0 0;
+  overflow: auto;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background: #fff;
+  padding: 10px; }
+  @media only screen and (max-width: 720px) {
+    .post-container {
+      margin: 20px 20px 0 -8px;
+      width: 100%; } }
+  @media only screen and (min-width: 721px) and (max-width: 1023px) {
+    .post-container {
+      margin: 3px 6px 8px 0px;
+      overflow: auto;
+      height: 250px; } }
+  .post-container .post-thumb {
+    float: left; }
+    .post-container .post-thumb img {
+      display: block;
+      padding: 8px; }
+  .post-container .post-content {
+    margin-left: 75px; }
+    @media only screen and (max-width: 720px) {
+      .post-container .post-content {
+        margin-left: 0; } }
+    @media only screen and (min-width: 721px) and (max-width: 1023px) {
+      .post-container .post-content {
+        margin-left: 0; } }
+  .post-container .post-title {
+    color: #657786;
+    padding: 9px; }
+    @media only screen and (max-width: 720px) {
+      .post-container .post-title {
+        padding: 0; }
+        .post-container .post-title:before {
+          content: ' ';
+          clear: right;
+          display: block; } }
+    @media only screen and (min-width: 721px) and (max-width: 1023px) {
+      .post-container .post-title {
+        padding: 0; }
+        .post-container .post-title:before {
+          content: ' ';
+          clear: right;
+          display: block; } }
+  @media only screen and (max-width: 720px) {
+    .post-container .post-date {
+      font-size: 10px; } }
+
+.no_results {
+  text-align: center; }
