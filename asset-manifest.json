@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/krishna1234/twitter-app/static/css/main.a440f248.chunk.css",
+    "main.js": "/krishna1234/twitter-app/static/js/main.dab59796.chunk.js",
+    "main.js.map": "/krishna1234/twitter-app/static/js/main.dab59796.chunk.js.map",
+    "runtime-main.js": "/krishna1234/twitter-app/static/js/runtime-main.71eb316a.js",
+    "runtime-main.js.map": "/krishna1234/twitter-app/static/js/runtime-main.71eb316a.js.map",
+    "static/js/2.c31a6665.chunk.js": "/krishna1234/twitter-app/static/js/2.c31a6665.chunk.js",
+    "static/js/2.c31a6665.chunk.js.map": "/krishna1234/twitter-app/static/js/2.c31a6665.chunk.js.map",
+    "index.html": "/krishna1234/twitter-app/index.html",
+    "precache-manifest.eb7af7949c8848d7b481f15d940eef07.js": "/krishna1234/twitter-app/precache-manifest.eb7af7949c8848d7b481f15d940eef07.js",
+    "service-worker.js": "/krishna1234/twitter-app/service-worker.js",
+    "static/css/main.a440f248.chunk.css.map": "/krishna1234/twitter-app/static/css/main.a440f248.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71eb316a.js",
+    "static/js/2.c31a6665.chunk.js",
+    "static/css/main.a440f248.chunk.css",
+    "static/js/main.dab59796.chunk.js"
+  ]
+}
